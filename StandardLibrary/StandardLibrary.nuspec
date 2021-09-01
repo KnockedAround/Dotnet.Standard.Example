@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>$(AssemblyName)</id>
+        <version>$version$</version>
+        <authors>$authors$</authors>
+        <description>$description$</description>
+        <language>en-US</language>
+        <projectUrl></projectUrl>
+        <license type="expression">MIT</license>
+    </metadata>
+</package>

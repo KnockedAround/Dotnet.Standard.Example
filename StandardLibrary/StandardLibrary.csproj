@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Evaldas Liaugaudas</Authors>
+    <Company>Example Lib</Company>
+    <Product>Example Lib</Product>
+    <Description>Covers both .Net Framework 4.7.2+ and Dotnet Core 5+</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageTags>Sample, .Net and .Net Core</PackageTags>
+    <PackageReleaseNotes>Sample Project</PackageReleaseNotes>
+    <PackageId>StandardLibrary-sample-multiple-framework</PackageId>
+  </PropertyGroup>
+
+</Project>
